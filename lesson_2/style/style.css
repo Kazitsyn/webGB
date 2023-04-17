@@ -1,0 +1,20 @@
+html{
+    background-image: url(https://shop-cdn1-2.vigbo.tech/shops/183385/products/20589185/images/2-f13052f5e4b517c0f038c79a07a4de25.jpeg);
+    font-family: cursive;
+    text-align: center;
+}
+h3,ul,ol{
+    text-align: left;
+}
+ol, ul{
+    border-style: ridge;
+    border-radius: 20px;
+}
+h1{
+    color: black;
+    text-shadow: 2px 2px 5px rgb(22, 18, 18);
+}
+.h3web{
+    color: black;
+    text-shadow: 2px 2px 5px rgb(31, 28, 28);
+}
