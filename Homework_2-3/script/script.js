@@ -12,7 +12,7 @@ function validateEmail(email) {
     if (validateEmail(email)) {
       $result.text(email + " подтвержден.");
     } else {
-      $result.text(email + " не правильный email.");
+      $result.text(email + " неправильный email.");
     }
     return false;
 }
